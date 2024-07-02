@@ -1,0 +1,12 @@
+name: insait_io_home_exam
+channels:
+  - defaults
+dependencies:
+  - python>=3.10,<=3.11
+  - pip
+  - openai
+  - json
+  - time
+  - os
+  - csv
+  - datetime
